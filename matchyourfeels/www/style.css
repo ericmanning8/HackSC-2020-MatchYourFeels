@@ -27,12 +27,12 @@ button{
     background-color: greenyellow;
     width:100%;
     outline: none;
-
+    opacity: 1;
     margin-right:auto;
 
 }
 button:hover{
-    opacity: .9;
+    opacity: .8;
 }
 ul li a , ul li{
     line-height: 60px;
